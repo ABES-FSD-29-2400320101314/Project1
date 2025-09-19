@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+        <div style="width: 660px;display: flex; justify-content: space-between;">
+            <img src="Screenshot 2025-09-13 131751.png" alt="Book_image">
+            <h1>Online Book Store</h1>
+        </div> 
+        <hr>
+       <div style="display: flex; justify-content: space-around;">
+        <a href="index.html">Home</a>
+        <a href="login_page.html">Login</a>
+        <a href="registration_page.html">Registration</a>
+        <a href="">Catalogue</a>
+        <a href="cart.html">Cart</a>
+       </div>
+       <hr>
+       <table border="black">
+        <tr>
+            <td style="padding:25px;"><a href="cse.html">CSE</a></td>
+            <td rowspan="4"> <h2>About Us</h2>Welcome to our Online Engineering Bookstore, your one-stop destination for academic excellence and professional growth. We specialize in providing a wide collection of carefully curated engineering books across major branches such as Computer Science and Engineering (CSE), Electronics and Communication Engineering (ECE), Electrical and Electronics Engineering (EEE), and Civil Engineering. <br> <br>
+
+            Our mission is to make quality technical knowledge accessible to every student, educator, and professional at the             click of a button. From fundamental textbooks that build a strong foundation to advanced reference materials that             support research and innovation, we ensure that learners of all levels find the resources they need. The store             offers books on programming, digital electronics, power systems, structural design, communication systems, data             science, and many more specialized <br><br>
+
+            With user-friendly navigation, quick search features, and secure checkout, purchasing your essential study             materials has never been easier. Each book is selected to match the curriculum requirements of leading universities             and industry demands, making it a reliable choice for both academic and competitive exam <br><br>
+
+            Whether you are a student striving for success, a teacher shaping future engineers, or a professional upgrading your skills, our online bookstore is here to empower your engineering journey.</td>
+        </tr>
+        <tr>
+            <td style="padding: 25px;"><a href="ece.html">ECE</a></td>
+        </tr>
+        <tr>
+            <td style="padding: 25px;"><a href="eee.html">EEE</a></td>
+        </tr>
+        <tr>
+            <td style="padding: 25px;"><a href="civil.html">CIVIl</a></td>
+        </tr>
+        
+       </table><br>
+        <a href="login_page.html"> <button style="text-align:center;">Login</button></a>&nbsp;&nbsp;
+       <a href="registration_page.html"> <button style="text-align:center;">Register</button></a> -->
+       
+    </fieldset>
+    
+</body>
+</html>
